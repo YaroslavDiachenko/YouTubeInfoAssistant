@@ -61,12 +61,14 @@ In order to get results already sorted  `3. Compare channels info` extended opti
 
 `Media resonans`, `Compare media resonans` and `Sort by media resonans` are similar queries containing, however, total number of comments for all videos available at the channel.
 
+![pic9](images/pic9.png)
+
 > Note: Use `Go to` in top menu panel to quickly switch between all query types or settings page.
 
 ![pic7](images/pic7.png)
 
 ### Settings
-The following setting are available:
+The following settings can be customized by a user:
 1. **Cache using**
     By enabling this option all search results are automatically saved to local memory. In case of repeated requests - data get request is addressed to local storage, instead of YouTube server, accordingly.
 2. **Cache saving path**
