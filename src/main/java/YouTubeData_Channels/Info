@@ -1,0 +1,11 @@
+
+Channel:
+snippet.title               string          The channel's title.
+snippet.publishedAt         datetime        The date and time that the channel was created. The value is specified in ISO 8601 (YYYY-MM-DDThh:mm:ss.sZ) format.
+statistics.subscriberCount  unsigned long   The number of subscribers that the channel has.
+statistics.videoCount       unsigned long   The number of videos uploaded to the channel.
+statistics.viewCount        unsigned long   The number of times the channel has been viewed.
+statistics.commentCount     unsigned long   The number of comments for the channel.
+
+Video:
+statistics.commentCount     unsigned long   The number of comments for the video.
