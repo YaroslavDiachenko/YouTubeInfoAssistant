@@ -1,6 +1,7 @@
 # YouTube Info Assistant
 
 YouTube Info Assistant is a JavaFX application providing a user with YouTube channels statistics, collects data and allows to compare info for different channels.
+
 ![main](images/main.png)
 
 YouTube Data API is used in this application to search for videos matching specific search terms, topics, locations, publication dates, etc.
@@ -17,9 +18,11 @@ The application allows a user to get up-to-date status of requested channel's in
 The application has several functions each of which returns specific view of query result through the user interface per unique data entry.
 
 Welcome page:
+
 ![pic1](images/pic1.png)
 
-Following by `Search for channels` the following set of options is available for user to perform specified query.
+Following by `Search for channels` the following set of options is available for a  user to perform specified query.
+
 ![pic3](images/pic3.png)
 
 Search options details:
@@ -37,14 +40,19 @@ Search options details:
     Sorts the list of specified channels and their information by total number of comments in advance.
 
 By choosing `1. Show channel info` user is requested to input channel ID of any YouTube channel.
+
 ![pic4](images/pic4.png)
+
 > Note: The names of already viewed channels are available in drop-down list.
 
 Following `2. Compare channels info` a multiple choice is allowed to make it possible compare results for requested channels.
+
 ![pic5](images/pic5.png)
+
 > Note: Press `Add field` or `Remove field` to control over quantity of input fields.
 
 The following results view is shown to a user:
+
 ![pic8](images/pic8.png)
 
 In order to get results already sorted  `3. Compare channels info` extended option is available as well. Sorting criteria and sorting order are available as result view parameters.
@@ -54,6 +62,7 @@ In order to get results already sorted  `3. Compare channels info` extended opti
 `Media resonans`, `Compare media resonans` and `Sort by media resonans` are similar queries containing, however, total number of comments for all videos available at the channel.
 
 > Note: Use `Go to` in top menu panel to quickly switch between all query types or settings page.
+
 ![pic7](images/pic7.png)
 
 ### Settings
